@@ -806,7 +806,7 @@
 
 <img align="right" src="Resources/Pictures/OnePlus-13.png" width="550" alt="Preview">
 
-**State:** Inactive <br>
+**State:** Active <br>
 **Codename:** dodge
 
 **Contributors:** [Robotix](https://github.com/Robotix22/), [N1kroks](https://github.com/N1kroks/), [index986](https://github.com/index986/)
